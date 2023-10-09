@@ -1,0 +1,30 @@
+﻿Player List:
+Aaron, John. Jersey Number: 5 
+Babel, Jack. Jersey Number: 16 
+Brown, Kate. Jersey Number: 2 
+Camidge, Abby. Jersey Number: 12 
+Carling, Tom. Jersey Number: 17 
+Davis, Chris. Jersey Number: 8 
+Davis, Lily. Jersey Number: 18 
+Doe, Jane. Jersey Number: 9 
+Elson, Sam. Jersey Number: 6 
+Finkle, Sarah. Jersey Number: 20 
+Johnson, Alex. Jersey Number: 10 
+Johnson, Olivia. Jersey Number: 7 
+Jones, Dave. Jersey Number: 4 
+Lee, Mary. Jersey Number: 15 
+Miller, Matt. Jersey Number: 3 
+Smith, Bob. Jersey Number: 13 
+Taylor, Grace. Jersey Number: 14 
+Williams, Mike. Jersey Number: 19 
+Wilson, Jason. Jersey Number: 11 
+Wilson, Lucy. Jersey Number: 1 
+
+Lineup List:
+Brown, Kate. Jersey Number: 2    Position: GOALIE
+Davis, Lily. Jersey Number: 18    Position: DEFENDER
+Lee, Mary. Jersey Number: 15    Position: DEFENDER
+Carling, Tom. Jersey Number: 17    Position: MIDFIELDER
+Elson, Sam. Jersey Number: 6    Position: MIDFIELDER
+Jones, Dave. Jersey Number: 4    Position: MIDFIELDER
+Doe, Jane. Jersey Number: 9    Position: FORWARD
