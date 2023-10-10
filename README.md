@@ -59,10 +59,3 @@ One limitation is that it cannot reset or restart. In my application, once the s
 
 Another limitation is that, in the interface where the user can input the player’s information, I use 3 combo boxes to represent the year, month, and date. However, I didn’t make the date combo box to adjust automatically to the month. For example, when the user choose month of “February”, the date choices are still from “1” to “31”, while a better implementation should be “1” to “28”. But I did do some checks for that, if the user choose “February” and date “31”, I will catch the DateTimeException and show user the error message to suggest the user to re-enter the player’s information again. 
 
-## Citations
-1. Java Swing Tutorial - Java Swing BoxLayout. (n.d.). Retrieved April 18, 2023, from http://www.java2s.com/Tutorials/Java/Java_Swing/0540__Java_Swing_BoxLayout.htm 
-2. Java swing tutorial - java swing layout managers. (n.d.). Retrieved April 17, 2023, from http://www.java2s.com/Tutorials/Java/Java_Swing/0500__Java_Swing_Layout.htm 
-3. Java Swing Tutorial - javatpoint. www.javatpoint.com. (n.d.). Retrieved April 20, 2023, from https://www.javatpoint.com/java-swing 
-4. Staff, D. (2022, March 24). How to create dialog boxes in Java. Developer.com. Retrieved April 21, 2023, from https://www.developer.com/java/create-java-dialog-boxes/ 
-5. Swing - controls. Tutorials Point. (n.d.). Retrieved April 20, 2023, from https://www.tutorialspoint.com/swing/swing_controls.htm 
-6. YouTube. (2020, June 29). Java GUI tutorial - output result on dialog box using joptionpane.showmessagedialog() method. YouTube. Retrieved April 16, 2023, from https://www.youtube.com/watch?v=oQJFeUBOljM 
